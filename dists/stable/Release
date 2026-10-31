@@ -1,0 +1,24 @@
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Sat, 31 Oct 2026 14:16:57 +0000
+Description: NovaLeads CRM para Linux
+Label: NovaLeads
+Origin: NovaLeads
+Suite: stable
+MD5Sum:
+ 0c8dbead9da6e3c9e609a443c1d62854              180 Release
+ 22e980624fd58799b053da51549b0b9c             1500 main/binary-amd64/Packages
+ 6422aaec4abe15903e91b497a98100bf              873 main/binary-amd64/Packages.gz
+SHA1:
+ 194b1b2e6e2b816bbed7fd4904907cbcf7a1f51b              180 Release
+ 7a02ac83cbde8375442b5f1efef4f45a57f21aec             1500 main/binary-amd64/Packages
+ c87332fad7ad5999d2a93db4f89102ee5bb6d816              873 main/binary-amd64/Packages.gz
+SHA256:
+ 26650ef65db6940754f2fcb3e13beba543bcef9aad7b5005ed865ba895d1ddd2              180 Release
+ 21d282a2d28eea4785fb6d416ac26d9c54ed21d20cb538a3bf3fd61fce79b992             1500 main/binary-amd64/Packages
+ 1b7263511f143760f26d3eef3285ff3f43ed0ab6ea224de55f2dadf0e5564843              873 main/binary-amd64/Packages.gz
+SHA512:
+ 3707fcc4f66ffae709882a81c02287f9389faf693dd067a70b6d97f5a2bd46c828880ffbac44698c92f17b07fdbb282edccb1dc68cdf629529464a39dd2ac902              180 Release
+ 629b0f75f45087fcde4908869e309be89f6f1b07dce383961531492d35b057ae8c5f693e6d01e3870a9506ce6f49a1decdab3c059c389541fb19ff8a173f2863             1500 main/binary-amd64/Packages
+ d683450fae1fc6aafd204e4306ba6c6c02077ce3359fa5fb6fd4339b8549f627d56e47112c3d98f575fa8898a2cacbe78d8b9e702ea8fbeab952a41bafb515a1              873 main/binary-amd64/Packages.gz

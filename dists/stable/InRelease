@@ -4,31 +4,31 @@ Hash: SHA256
 Architectures: amd64
 Codename: stable
 Components: main
-Date: Fri, 06 Nov 2026 14:09:42 +0000
+Date: Sat, 07 Nov 2026 16:34:12 +0000
 Description: NovaLeads CRM para Linux
 Label: NovaLeads
 Origin: NovaLeads
 Suite: stable
 MD5Sum:
- 9d0298ecf9b521dbc1732a9a971b5878              180 Release
- f5584617e5ac631388b5b5cbff3efcf5             1500 main/binary-amd64/Packages
- ab9fc1a846263eb8de756cb8ed2bc47d              874 main/binary-amd64/Packages.gz
+ 7f48a96631e4a387a6c5b9d3337c76f6              180 Release
+ 7b4ab2419c7fb0d068c5c4d9ff900e85             1500 main/binary-amd64/Packages
+ 92c5f6c950d1047c7049f755151ed659              873 main/binary-amd64/Packages.gz
 SHA1:
- b91a3d49e7d65cd8d0c40606ee18dc8a4f755233              180 Release
- fe69002ab013b10badccc8e9533be92b15d7baff             1500 main/binary-amd64/Packages
- dde13b7efe0b02527200730306f71e3a85dacaa8              874 main/binary-amd64/Packages.gz
+ 825414c1ed683496bd640bb117fac44b566c965d              180 Release
+ 0d8b78dc8b6742767456ab79af675089957e62de             1500 main/binary-amd64/Packages
+ b8e34c7f7efa27c4dd5f9bb3ba3ad9b9fbbabee0              873 main/binary-amd64/Packages.gz
 SHA256:
- 69202e00ecd034386d5fccae5cdfe6e430d32f57c2c82f2bf8a35477be445497              180 Release
- d11b64d6784cd546280a8302f8a837de700de63db070555f9adbb587c5969239             1500 main/binary-amd64/Packages
- df9399b5cd2af0b7faadca7c68059a5915efcfcd2382711af0c797c24b7f3427              874 main/binary-amd64/Packages.gz
+ 7de507b9b3d448ef5cdd9b487c2905697e6a06acb416327a28543fe4f506ed62              180 Release
+ a41ad5627179fd6dee04f5f8a326f78164bc81b759fda822988df72a9c0df72f             1500 main/binary-amd64/Packages
+ e03393240a6043932ed06078b6af2b764bcde132d78d478808773df3e40d4631              873 main/binary-amd64/Packages.gz
 SHA512:
- 14816cce6165efc13442efc2d89308eeff0c83eca391dd53fb70788693e9219da344d152e34af030c6518d95266f603ec3941568607c89ccf1e7e4425fa92aae              180 Release
- dffbb107435956483578ad887449d4ad7f52058cc9fd10f4f33d63bcd3ab5f61fa66a146c9b83348b970a84f0303dd885937681a2fa9f437fd8d1d7b5c158fdc             1500 main/binary-amd64/Packages
- bb12cf2789d0f0d82821a7bb7da2ad0f7f54df9c4d83eaf186d9ffbac7785039efaee2bbf1b184312e10411cef9bdb59a7379f88bc8a64f26c3321deb6317c02              874 main/binary-amd64/Packages.gz
+ a255443505c3224ab9547786b95cac8400a42b124a974c897215bf9e22e1288e1a365fd422f27a4163e07824815dbe3e1ea2d007d73a8214883547495e2b2eb3              180 Release
+ a7c478eb0dc82a30a607207dbfac5d2d3ea52723bf08e35af451e17a02adc79925fcb9799e802cebb8bc562077b32a0860cb708462f19fcc2f0634de04800665             1500 main/binary-amd64/Packages
+ dea297307f270aaee7a9ccac005c8ae30175fa07c5c1bae0838336a487bd4b2055ac288bbb11264dc0d4defda8d252a81578459e1a59b918368ceea48507c675              873 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYIAB0WIQQB6lZnaIwrttlnl4SLYKae9rKchQUCau3fpgAKCRCLYKae9rKc
-hWPVAP0QjMSAAt8RiZoiw8iFvxsiEzt3Z1VbEk0lk/VVLSVlbgEAi0jzR4I1SHLN
-QSnzbEA8JiYcogsOAxv1tIGCt2X/1AM=
-=neH7
+iHUEARYIAB0WIQQB6lZnaIwrttlnl4SLYKae9rKchQUCau9TBAAKCRCLYKae9rKc
+hZLyAQCMuZdtmRArB7iegeJuUpqOEdhX99XZP21iNr0iR6+b9QD/a4jx3VRw4U5D
+WmlxK7LcrYP0GhIWwDp72uJvYKsYHQE=
+=E3Jv
 -----END PGP SIGNATURE-----

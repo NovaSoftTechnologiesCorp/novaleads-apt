@@ -1,24 +1,24 @@
 Architectures: amd64
 Codename: stable
 Components: main
-Date: Thu, 12 Nov 2026 14:32:14 +0000
+Date: Thu, 12 Nov 2026 14:37:51 +0000
 Description: NovaLeads CRM para Linux
 Label: NovaLeads
 Origin: NovaLeads
 Suite: stable
 MD5Sum:
- 63aee82bf1a35e9f2b7749a531a5c7bc              180 Release
- 53b673d3e3133f0636fa8f2a456cc873             1551 main/binary-amd64/Packages
- 445981cc78fe089bc22a3167b0f447cb              894 main/binary-amd64/Packages.gz
+ 23ef31fdb904af877deb0ef47b747315              180 Release
+ 95f6c248f10416ff7702d849be7efee4             1551 main/binary-amd64/Packages
+ b5fd30b80ad93147e74c28a2922f4fdb              892 main/binary-amd64/Packages.gz
 SHA1:
- 1022182abed3e1765d72ae2af4680489eedc5e56              180 Release
- dd1eecd53a0903a5f915b191b1df10263a1b52c0             1551 main/binary-amd64/Packages
- e973c69295cee5b0bda8aff4ff7e4af2eb3ce252              894 main/binary-amd64/Packages.gz
+ 594efb2fa1806e7354f4a00c1f0d5e9fc2dc49d3              180 Release
+ 977a02a69bb15aa2a381319d09f4d881ce497e98             1551 main/binary-amd64/Packages
+ 2c59a321e409a93bb77f69c41b9f1a9f039a2d41              892 main/binary-amd64/Packages.gz
 SHA256:
- 0cfa52c9c90d4dc9042d8af0515746dcef22c4861a17ab181001e160823e7a4d              180 Release
- 715bd84d15e6c5b43dde45abf287251bd7f5032c8b2344fbc4a78cc483b8a102             1551 main/binary-amd64/Packages
- f52b4cc78784275abdcc7af84fd225d1eed4f7133b11e18c858bdd87a09aacae              894 main/binary-amd64/Packages.gz
+ 7c34dcf1edf7d22a5bf98cf73a2f2cbbfffed1cba90cafc0c4059de6a2e2bdc6              180 Release
+ 70c93ac8834b763a0715f2833fe866e535d2bb37b13e6879ff3b07b3c5b11f53             1551 main/binary-amd64/Packages
+ 0b85ee78b8f7a14ff954a0f51e1ccae34da63c8ed2a5ec8dd638d945ba95324f              892 main/binary-amd64/Packages.gz
 SHA512:
- 09a230aaeb5f1dfd7e34da874ac7467af0291b55353cc031f0e9fcf62e92718fe047bbcfab0a60da6cc7f03393b4fd6a58023347a927f8517587208c79e83285              180 Release
- 4533faa8950346118bba53263c76da478cc28c0b82ca9cb88b510d01ca982835465795dd3fd7a491ff9ffc94e4e77afad687e3d24c614b61559de1fea15d220e             1551 main/binary-amd64/Packages
- 7274ae02fc685f600f6aeccaf8afbf5e58a044c68bd47312454337b6b723a681cafe7dd49bbfe9bce705d75a10418b436b84e805693ac006029a1c9e8f640df9              894 main/binary-amd64/Packages.gz
+ 6a8b724951a6514d7bf3837f522172c67e02e58f5f4e2ec219f4a7b3f49c209335c4a3ed5fe51211c50dce64e492592a72b00bdf480671612387463a442d5c7b              180 Release
+ cef433abe89f71cbfa5cf80362250c000eae42a8e142a3dd0df1810694f35faf10503308dfce3212b9cd45bbb6fc1e23da7d87360548e8cb0f97b190a7e2cf7e             1551 main/binary-amd64/Packages
+ 8e93e2b1036d66e6d5896925696906636ea381113fb55903a54406225cd2222031027e97cc26354ea4adf687320d0c64262bb8b553c46eee3f57e598e872f627              892 main/binary-amd64/Packages.gz

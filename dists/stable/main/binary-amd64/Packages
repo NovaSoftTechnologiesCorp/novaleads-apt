@@ -1,25 +1,5 @@
 Package: novaleads
 Architecture: amd64
-Version: 1.0.0+48
-Priority: optional
-Section: web
-Maintainer: NovaSoft Technologies <isaac@novasoftcorp.com>
-Installed-Size: 62060
-Depends: libatk1.0-0t64 (>= 2.7.91), libc6 (>= 2.38), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.14.0), libdrm2 (>= 2.4.75), libepoxy0 (>= 1.0), libfontconfig1 (>= 2.12.6), libgbm1 (>= 7.11~1), libgcc-s1 (>= 3.0), libgdk-pixbuf-2.0-0 (>= 2.22.0), libglib2.0-0t64 (>= 2.79.0), libgstreamer-plugins-base1.0-0 (>= 1.0.0), libgstreamer1.0-0 (>= 1.6.0), libgtk-3-0t64 (>= 3.21.4), libharfbuzz0b (>= 0.6.0), libmpv2 (>= 0.29), libpango-1.0-0 (>= 1.29.4), libpangocairo-1.0-0 (>= 1.14.0), libpulse0 (>= 0.99.1), libsecret-1-0 (>= 0.7), libstdc++6 (>= 13.1), libx11-6, libxcomposite1 (>= 1:0.4.5), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxrandr2, zlib1g (>= 1:1.1.4), gstreamer1.0-plugins-base, gstreamer1.0-plugins-good
-Recommends: gnome-keyring, pulseaudio-utils, ffmpeg
-Filename: pool/main/n/novaleads/novaleads_1.0.0+48_amd64.deb
-Size: 20423950
-MD5sum: e36a45fa383dab1ba996e42a3f5e8289
-SHA1: 8d89b53734c6629feddad476c2f3053c716528c8
-SHA256: 0277cbc46f3b6d969bbe529bf171c6b8e9304b5aa0ad5cfb8c786447261466de
-SHA512: 7dec4c61f92eff2087bf2bb613ceee40358d43a422785691883c43974367f41d7ab46b8bb5a7b71b62a2be67a02be4b9044ef857cf4947525238be51f233e56d
-Homepage: https://app.novaleadscrm.com
-Description: NovaLeads CRM, ventas por WhatsApp para varias marcas
- Leads, chats de WhatsApp, buckets por campaña, chat y llamadas del equipo,
- agenda, contratos y comisiones de cada marca.
-
-Package: novaleads
-Architecture: amd64
 Version: 1.0.0+49
 Priority: optional
 Section: web
@@ -53,6 +33,26 @@ MD5sum: 0b08df6dc6e28975ddb799b529374b34
 SHA1: 3e691a46969bc70ad68668038ef5f0a2573aa861
 SHA256: 5ad7b3c3501e70b745a617677365805d17257626e7a34f5bfb0dba404bd03dbd
 SHA512: 73621188d1c6f048a61280f447510163cd98aea9b773ea226e45d84cc07738aed4d46958ad0869978c936838c8727c7a3e40675756d0bdcedeb12612dd7fd574
+Homepage: https://app.novaleadscrm.com
+Description: NovaLeads CRM, ventas por WhatsApp para varias marcas
+ Leads, chats de WhatsApp, buckets por campaña, chat y llamadas del equipo,
+ agenda, contratos y comisiones de cada marca.
+
+Package: novaleads
+Architecture: amd64
+Version: 1.0.0+51
+Priority: optional
+Section: web
+Maintainer: NovaSoft Technologies <isaac@novasoftcorp.com>
+Installed-Size: 62108
+Depends: libatk1.0-0t64 (>= 2.7.91), libc6 (>= 2.38), libcairo-gobject2 (>= 1.10.0), libcairo2 (>= 1.14.0), libdrm2 (>= 2.4.75), libepoxy0 (>= 1.0), libfontconfig1 (>= 2.12.6), libgbm1 (>= 7.11~1), libgcc-s1 (>= 3.0), libgdk-pixbuf-2.0-0 (>= 2.22.0), libglib2.0-0t64 (>= 2.79.0), libgstreamer-plugins-base1.0-0 (>= 1.0.0), libgstreamer1.0-0 (>= 1.6.0), libgtk-3-0t64 (>= 3.21.4), libharfbuzz0b (>= 0.6.0), libmpv2 (>= 0.29), libpango-1.0-0 (>= 1.29.4), libpangocairo-1.0-0 (>= 1.14.0), libpulse0 (>= 0.99.1), libsecret-1-0 (>= 0.7), libstdc++6 (>= 13.1), libx11-6, libxcomposite1 (>= 1:0.4.5), libxdamage1 (>= 1:1.1), libxext6, libxfixes3, libxrandr2, zlib1g (>= 1:1.1.4), gstreamer1.0-plugins-base, gstreamer1.0-plugins-good
+Recommends: gnome-keyring, pulseaudio-utils, ffmpeg
+Filename: pool/main/n/novaleads/novaleads_1.0.0+51_amd64.deb
+Size: 20437380
+MD5sum: f27b2516ac47b8d339bcbba705f1b034
+SHA1: c6611bb6f3ba909d647b76e10d4b883d4d123702
+SHA256: 1e38f579136c9f818c809b7e8fdfb99d2f51f6c2ae41ddae5308b15a89989a63
+SHA512: 6c3ce0f6d216d10f6aba3b26efdf603e59cfdd6d5d6431ed28832abdcf72508231139f9a044ebdffa3240b4cb052677ff9588c580df5eff9997389df23d3fae0
 Homepage: https://app.novaleadscrm.com
 Description: NovaLeads CRM, ventas por WhatsApp para varias marcas
  Leads, chats de WhatsApp, buckets por campaña, chat y llamadas del equipo,
